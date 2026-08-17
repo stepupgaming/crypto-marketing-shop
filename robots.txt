@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raw.githack.com/stepupgaming/crypto-marketing-shop/main/sitemap.xml
